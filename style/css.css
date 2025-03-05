@@ -1,0 +1,9 @@
+main{
+    background-color: brown;
+}
+#no_marge > p{
+    margin: 0;
+}
+footer{
+    background-color: rgba(143, 2, 2, 0.637);
+}
